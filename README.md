@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Listener, Learner,**
 
-- 📫 How to reach me **danushsh18@gmail.com**
-
 - ⚡ Fun fact **Still In the Same Planet!**
 
 <h3 align="left">Connect with me:</h3>
