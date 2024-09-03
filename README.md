@@ -26,7 +26,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&emsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   &emsp;<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp; </p>
-<br>
+<br><br>
+<h1 align="center">Progress </h1>
 
-<h2>LeetCode Status</h2> <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/don_200?theme=dark&font=Sarala&ext=heatmap)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danush-20&bg_color=1b181a&color=dbcb1a&line=d32752&point=dade12&area=true&hide_border=true)
