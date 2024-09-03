@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danush-20&label=Profile%20views&color=0e75b6&style=flat" alt="danush-20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/danush_dr17" target="blank"><img src="https://img.shields.io/twitter/follow/danush_dr17?logo=twitter&style=for-the-badge" alt="danush_dr17" /></a> </p>
-
 - 🌱 I’m currently learning **DataStructures and Algorithms**
 
 - 💬 Ask me about **Listener, Learner,**
@@ -28,3 +26,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&emsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   &emsp;<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp; </p>
+<br>
+
+<h2>LeetCode Status</h2> <br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/don_200?theme=dark&font=Sarala&ext=heatmap)
